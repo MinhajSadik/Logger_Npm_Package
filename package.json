@@ -1,0 +1,21 @@
+{
+  "name": "logger_npm_package_manager",
+  "version": "1.0.0",
+  "description": "Logger is an debuging npm package which will solve our every day debuging problem.",
+  "main": "index.js",
+  "repository": "https://github.com/MinhajSadik/Logger_Npm_Package.git",
+  "author": "MinhajSadik <minhajosadik@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "debug console",
+    "colored console",
+    "easy debug"
+  ],
+  "bugs": {
+    "url": "https://github.com/MinhajSadik/Logger_Npm_Package/issues"
+  },
+  "homepage": "https://github.com/MinhajSadik/Logger_Npm_Package#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
