@@ -11,6 +11,6 @@ export class Log {
   }
 
   static debug(msg: string) {
-    console.log({ msg });
+    console.log(`${msg}`);
   }
 }
