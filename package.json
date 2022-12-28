@@ -1,5 +1,5 @@
 {
-  "name": "logger_npm_package_manager",
+  "name": "log",
   "version": "1.0.0",
   "description": "Logger is an debuging npm package which will solve our every day debuging problem.",
   "main": "lib/index.js",
@@ -13,8 +13,7 @@
   },
   "keywords": [
     "debug console",
-    "colored console",
-    "easy debug"
+    "colored console"
   ],
   "bugs": {
     "url": "https://github.com/MinhajSadik/Logger_Npm_Package/issues"
