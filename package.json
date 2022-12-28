@@ -1,5 +1,5 @@
 {
-  "name": "log",
+  "name": "log_view",
   "version": "1.0.0",
   "description": "Logger is an debuging npm package which will solve our every day debuging problem.",
   "main": "lib/index.js",
